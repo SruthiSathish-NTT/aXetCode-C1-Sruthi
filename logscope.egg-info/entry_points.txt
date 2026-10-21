@@ -1,0 +1,2 @@
+[console_scripts]
+logscope = logscope.cli:main
